@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I'm Thomas (a.k.a Dean)
+I'm Thomas Durand (a.k.a Dean)
 
-Developer of iOS app Padlok, Software Architect and Security Engineer at DiliTrust, Co-writer of Café & Lembas and full-time geek. 
+Developer of iOS apps SharePal and Padlok, Software Architect and Security Engineer at DiliTrust, Co-writer of Café & Lembas and full-time geek. 
 
 I (sometime) write about computers on my blog: https://blog.thomasdurand.fr
